@@ -1,0 +1,56 @@
+body{
+   background-image: url("img/panodefundo.png");
+   background-color: #000;
+  font-family: 'Chilanka', cursive;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000;
+  font-family: 'Chilanka', cursive;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+#back {
+  background-color: black;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+#brasao{
+  display: block;
+  margin: auto;
+
+}
+
+#back h1 {
+  text-align: center;
+  /*margin: auto;*/
+  color: white;
+  font-size: 60px;
+
+}
+#back h2 {
+  text-align: center;
+  /*margin: auto;*/
+  color: white;
+  font-size: 20px;
+
+}
